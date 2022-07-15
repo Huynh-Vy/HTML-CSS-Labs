@@ -1,9 +1,9 @@
-# BroadWay project
+# BroadWay 
 
 1. Description: 
-This project is for praticing HTML and CSS to build the landing page of Broadway website
+Building BroadWay homepage with HTML and CSS
 
-2. Technologies: HTML
+2. Technologies: HTML, CSS
 
 ![image](https://user-images.githubusercontent.com/87691625/179136017-605989f9-cf05-4de4-8234-8ad9668aadfa.png)
 
