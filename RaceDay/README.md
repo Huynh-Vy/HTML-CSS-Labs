@@ -1,6 +1,8 @@
-# Race Day Project
+# Race Day 
 
-## This project uses Javascript to infrom the runner about start time and their race number
+## Description: infroming the runner about start time and their race number
+
+### Technologies: Javascript
 
 This is how it works:
 
